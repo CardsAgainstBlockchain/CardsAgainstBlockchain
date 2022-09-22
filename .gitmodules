@@ -1,0 +1,3 @@
+[submodule "CAC"]
+	path = CAC
+	url = https://github.com/CardsAgainstCryptography/CAC
