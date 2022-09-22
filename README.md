@@ -11,11 +11,13 @@ See [RULES.md](https://github.com/CardsAgainstCryptography/CAC/blob/master/RULES
 License
 -------
 
-Cards Against Blochchain is shamelessly based on Cards Against Humanity, which was released under a Creative Commons BY-NC-SA 2.0 license (https://creativecommons.org/licenses/by-nc-sa/2.0/).
-
 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/2.0/88x31.png" />
 
-Cards Against Cryptography is released under the same license, which means you can use, remix, and share the game for free, but cannot sell it.
+Cards Against Blochchain was based on Cards Against Humanity, which was released under a Creative Commons BY-NC-SA 2.0 license (https://creativecommons.org/licenses/by-nc-sa/2.0/).  All files in this repository are covered by this license, except the actual Cards Against Blockchain card files.  You can threfore use, remix, and share this repository for free, but cannot sell it.
+
+<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
+
+The Cards Against Blockchain card files in src/*.txt are both released under the more permissive <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 Contributing
 ------------
