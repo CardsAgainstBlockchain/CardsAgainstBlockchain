@@ -1,1 +1,5 @@
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic License. See https://creativecommons.org/licenses/by-nc-sa/2.0/.
+All files inhereted from Cards Against Cryptography are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Generic License.  See https://creativecommons.org/licenses/by-nc-sa/2.0/.  This covers build system files like Makefiles and *.tex files, as well as documentation .md files, but not the src/*.txt files used by actual card contents.
+
+All card data files in src/*.txt are covered by the Creative Commons Attribution 4.0 International license.  See https://creativecommons.org/licenses/by/4.0/
+
+
