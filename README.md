@@ -26,6 +26,8 @@ You can submit pull requests to propose new cards; see `src/black.txt` and `src/
 
 Please check out the original Cards Against Humanity decks, either by purchase of free download at https://www.cardsagainsthumanity.com/, or download from another source like http://mdsc.info/dropbox/cah/ 
 
+You might gleen ideas from news archives like web3isgoinggreat.com too.
+
 Building
 --------
 
