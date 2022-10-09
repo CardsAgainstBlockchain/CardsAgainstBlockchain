@@ -30,3 +30,6 @@ PonziCoin 3
 A professor con
 Intel SGX
 Anti-stable coin
+Zero-knowledge investing
+Multi-primate computation
+Sappling's toxic waste
