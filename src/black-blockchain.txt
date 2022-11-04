@@ -1,5 +1,6 @@
 Proof of \BLANK
 Bram Cohen launches Proof of \BLANK
+\BLANK Coin
 \BLANK Classic
 \BLANK DAO
 \BLANK API
@@ -14,8 +15,10 @@ An ETHW forked NFT of \BLANK
 A wallet vulnerability in \BLANK
 \BLANK flipped by \BLANK
 \BLANK: More fun than Axie Infinity
+\BLANK: Unbanking the banked
 Zooko attempts to broker peace between \BLANK and \BLANK
 Vitalik blogs about proving \BLANK in zero-knowledge.
+Justin Sun trolls \BLANK
 What do you find on Charles Hoskinson's farm?
 Binance pumped and dumped \BLANK
 a16z pumped and dumped \BLANK
@@ -33,25 +36,28 @@ My next next project is with \BLANK
 Why don't you ask \BLACK to lead your seed round?
 \BLANK as a service.
 \BLANK yield farming
-\BLANK promoted \BLANK in North Korea
+\BLANK promoted \BLANK in North Korea.
 An SEC statement on \BLANK
-China bans \BLANK again.
+China bans \BLANK, again.
 \BLANK is the wash trading of NFTs.
 Charles Hoskinson shills \BLANK to Chinese rice farmers.
 \BLANK keeps \BLANK awake at night.
-Machine learning on the \BLANK
+Machine learning on \BLANK
 \BLANK rugged \BLANK
 An exit scam by \BLANK
 A mining pool full of \BLANK
 \BLANK depeging \BLANK
+\BLANK repeging \BLANK
 A liquidity pool of \BLANK
 How did you unbankrupt yourself?
 Jeff Bezos sexting \BLANK
 \BLANK is Peter Thiel's new blood boy.
 My KYC provider is \BLANK
 My custody service is \BLANK
-Today Solana went down because of \BLANK
-On Charles Hoskinson you will find \BLANK doing \BLANK
-Today and EIP was passed on Ethereum by \BLANK
+Why did Solana go down today?
+On Charles Hoskinson's farm you will find \BLANK doing \BLANK
+Today an EIP was passed on Ethereum by \BLANK
+Fucking DKGs, how do they work?
 \BLANK spraying a Faygo
 Two Thiel Fellows, one \BLANK
+Approporiate for a reputation system.
