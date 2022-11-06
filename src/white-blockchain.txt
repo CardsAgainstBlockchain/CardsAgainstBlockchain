@@ -28,7 +28,7 @@ Amir Taaki
 Fomo3D
 A smelly shitcoin
 A flashloan
-Certificate transperency
+Certificate transparency
 Chain stalls
 Slashing
 PHP smart contracts
