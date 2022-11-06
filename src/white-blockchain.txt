@@ -2,7 +2,7 @@ The blockchain
 Satoshi
 Michael Saylor
 CZ
-Vitalik in a fursuit 
+Vitalik in a fursuit
 Justin Sun
 Joseph Lubin
 Jack Dorsey
@@ -84,3 +84,5 @@ Internet Clown Posse
 Juggalos
 Violent J Camenisch and Shoup 2 Dope
 Fractional reserve
+An IOTA hash collision
+Laser eyed Jordan Peterson
