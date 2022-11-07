@@ -38,6 +38,7 @@ Too many malicious watchtowers
 Weekly hardforks
 PonziCoin 3
 A professor con
+stuck funds
 Parity wallet hacker
 Intel SGX
 An anti-stable coin
@@ -69,6 +70,7 @@ A goat
 Ayahuasca
 Psilocybin
 LSD
+microdots
 THC
 Weed
 Trusted K-holes
@@ -100,3 +102,5 @@ GameStop
 A black cygnet
 A gaggle of black swans
 Exchange Tanked Funds
+Dual_EC_DRBG
+BLS soft key derivation
