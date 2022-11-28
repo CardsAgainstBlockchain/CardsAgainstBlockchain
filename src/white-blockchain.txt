@@ -27,7 +27,7 @@ Keto flatulence
 ZookoCash
 Actual live apes
 A mangy shiba inu
-Doge Classic Classic
+Doge Classic
 Bitcoin City
 El Salvador
 Amir Taaki
@@ -45,6 +45,7 @@ Weekly hardforks
 PonziCoin 3
 A professor con
 stuck funds
+devops199
 Parity wallet hacker
 Intel SGX
 An anti-stable coin
@@ -98,6 +99,7 @@ Internet Clown Posse
 Juggalos
 Violent J Camenisch and Shoup 2 Dope
 Fractional reserve
+Fictional reserve
 IOTA hash collisions
 weed collisions
 Laser eyed Jordan Peterson
@@ -114,5 +116,7 @@ Fraud Tanked eXchange
 An Enron Ethic Manual
 Dual_EC_DRBG
 BLS soft key derivation
+An on-chain Fiat-Shamir transform
 Identical nonces
 Magical thinking
+Magical realism
