@@ -99,8 +99,7 @@ Stephen Diehl blogs about \BLANK
 \BLANK is SAFU
 Not your \BLANK, not your \BLANK
 Short \BLANK, long \BLANK
-\BLANK gets listed
-Newly listed on \BLANK
+\BLANK gets listed by \BLANK
 \BLANK is a scam
 An oracle for \BLANK
 Never short \BLANK
@@ -108,3 +107,4 @@ Leaked alpha on \BLANK
 wen \BLANK sir
 \BLANK dominance
 \BLANK got defederated like Rasberry Pi % https://eiara.nz/posts/2022/Dec/09/a-case-study-on-raspberry-pis-incident-on-the-fediverse/
+Emacs or vi?
