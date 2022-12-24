@@ -1,0 +1,12 @@
+
+
+black:
+
+1 \BLANK is 1 \SAME_BLANK
+
+
+white:
+
+$x stable coin
+(where x = aUSD price from an oracle)
+
