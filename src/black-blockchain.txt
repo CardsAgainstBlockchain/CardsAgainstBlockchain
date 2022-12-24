@@ -106,5 +106,5 @@ Never short \BLANK
 Leaked alpha on \BLANK
 wen \BLANK sir
 \BLANK dominance
-\BLANK got defederated like Rasberry Pi % https://eiara.nz/posts/2022/Dec/09/a-case-study-on-raspberry-pis-incident-on-the-fediverse/
+\BLANK got defederated like Rasberry Pi    \REFERENCE{https://eiara.nz/posts/2022/Dec/09/a-case-study-on-raspberry-pis-incident-on-the-fediverse/}
 Emacs or vi?

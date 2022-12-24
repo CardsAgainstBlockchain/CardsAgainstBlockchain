@@ -5,6 +5,9 @@
 
 % fonts
 \usepackage{fontspec}
+% Linux seemingly lacks Helvetica or other Comic Sans,
+% I'll leave this for osmeone else to fix.
+% https://github.com/CardsAgainstCryptography/CAC/issues/5
 \newfontfamily\comicsans{Comic Sans MS}
 \setsansfont{Helvetica}
 
@@ -17,6 +20,9 @@
 \pretolerance=10000
 \tolerance=2000 
 \emergencystretch=10pt
+
+% REFERENCE
+\def\REFERENCE#1{}
 
 % BLANK
 \newcommand{\BLANK}{{\tikz \draw [line width=1.5pt,color=cardfg] (0,0)--+(0.5in,0);}\xspace}
