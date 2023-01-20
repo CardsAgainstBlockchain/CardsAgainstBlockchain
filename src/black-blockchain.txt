@@ -111,3 +111,4 @@ wen \BLANK sir
 \BLANK dominance
 \BLANK got defederated like Rasberry Pi    \REFERENCE{https://eiara.nz/posts/2022/Dec/09/a-case-study-on-raspberry-pis-incident-on-the-fediverse/}
 Emacs or vi?
+Eip-42575 on \BLANK got accepted

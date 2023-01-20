@@ -146,3 +146,4 @@ BTC dominance
 Flippening
 Life savings
 Mid-life savings
+Smart contracts written by ChatGPT  \REFERENCE{https://twitter.com/molly0xFFF/status/1607771123974049792}
