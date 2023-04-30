@@ -128,3 +128,4 @@ Fast, versatile and modular. What am I?
 \BLANK + \BLANK = \BLANK
 Ethereum’s top Layer 2 teams are fiercely debating about \BLANK
 The last thing your blockchain company needs is \BLANK
+Tarun Chitra blogs about convex functions not always being an underestimator of \BLANK
