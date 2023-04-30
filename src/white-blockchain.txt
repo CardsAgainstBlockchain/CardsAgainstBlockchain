@@ -25,6 +25,10 @@ Cosmohamed Bitcoin Jaesustein
 Scam Bankrun-Fraud
 Scam-ta Claus    \REFERENCE{https://twitter.com/FTX_Official/status/1473686647481016320}
 Caroline Ellison
+Polycule capital
+Polycule-chain
+Polycule-gon
+zkPolycule
 Alameda Research
 Effective arraignment
 Embezzlement altruism
@@ -140,10 +144,11 @@ Batticaloa International Airport (BTC)
 Abc Chairman Liu Jin
 Psychologically unbalanced oil and vinegar
 WannaCry
-Lemon Cash
+Lemon \OPTIONAL{Party} Cash
 RugCoin
 BTC dominance
 Flippening
 Life savings
 Mid-life savings
 Smart contracts written by ChatGPT  \REFERENCE{https://twitter.com/molly0xFFF/status/1607771123974049792}
+Black Hole Capital Group  \REFERENCE{https://twitter.com/Cryptadamist/status/1631173802749992961}
