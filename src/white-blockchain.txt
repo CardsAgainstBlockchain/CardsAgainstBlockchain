@@ -103,6 +103,8 @@ heterogeneous sharts
 FUD
 North Korea
 Vitalik's mom
+Vitalik's boner
+Milady
 complaining on crypto twitter
 Crypto-fediverse
 Defederation
@@ -131,6 +133,7 @@ A gaggle of black swans
 Dual_EC_DRBG
 BLS soft key derivation
 An on-chain Fiat-Shamir transform
+Proving back-and-forth forever
 Identical nonces
 Magical thinking
 Magical realism
@@ -172,3 +175,4 @@ Veganism
 Legalizing Marijuana
 Sam Bankman-Fried 
 FTX
+Vampire attack
