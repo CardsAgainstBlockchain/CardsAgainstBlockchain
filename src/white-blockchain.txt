@@ -1,8 +1,8 @@
 The blockchain
 Satoshi
 Catoshi Nakameowto
-Satoshi's cryochamber
-Satoshicicle
+Satoshi's cryochamber    \REFERENCE{Hal Finney's head was cryopreserved by the Alcor Life Extension Foundation https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)#Death}
+Satoshicicle    \REFERENCE{Hal Finney's head was cryopreserved by the Alcor Life Extension Foundation https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)#Death}
 Hal Finney's CO2 solution
 Proof-of-waste
 Magic the Gathering Online eXchange
@@ -22,7 +22,7 @@ Dr. Wood
 Silvio Micali fanboy bots
 Charles Hoskinson's farm
 Cosmohamed Bitcoin Jaesustein
-Scam Bankrun-Fraud
+Scam Bankrun-Fraud    \REFERENCE{Sam Bankman-Fried but funnier}
 Scam-ta Claus    \REFERENCE{https://twitter.com/FTX_Official/status/1473686647481016320}
 Caroline Ellison
 Tumblr Bitch
@@ -35,9 +35,10 @@ Alameda Research
 Effective arraignment
 Embezzlement altruism
 Ineffective machiavellianism
-Fraud Tanked eXchange
+FTXed
+Fraud Tanked eXchange    \REFERENCE{FTX but funnier}
 Exchange Tanked Funds
-An Enron Ethic Manual
+An Enron Ethics Manual
 Virgil Grifith
 Palantir
 Keto flatulence
@@ -60,6 +61,7 @@ A broken Ledger device
 Too many malicious watchtowers
 Weekly hardforks
 PonziCoin 3
+A professor coin
 A professor con
 stuck funds
 devops199
@@ -86,7 +88,7 @@ reddit mods
 Tiktok investors
 Telegram scammers
 The metaverse
-an SEC board meeting
+An SEC board meeting
 Silkroad
 SpankChain
 Ross Ulbricht's mom
@@ -100,13 +102,13 @@ Weed
 Trusted K-holes
 Less Trust More Truth
 Less Turds More Teeth
-Aptos
+Yet Another Diem Fork    \REFERENCE{Aptos or Sui but alone those are not funny enough}
 heterogeneous sharts
 FUD
 North Korea
 Vitalik's mom
-Vitalik's boner
-Milady
+Vitalik's boner    \REFERENCE{https://medium.com/@vitaliksboner/how-big-can-vitaliks-boner-really-get-%E1%91%8E-def7c5d0a348}
+Milady    \REFERENCE{https://www.coindesk.com/layer2/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/}
 complaining on crypto twitter
 Crypto-fediverse
 Defederation
@@ -155,8 +157,8 @@ BTC dominance
 Flippening
 Life savings
 Mid-life savings
-Smart contracts written by ChatGPT  \REFERENCE{https://twitter.com/molly0xFFF/status/1607771123974049792}
-Black Hole Capital Group  \REFERENCE{https://twitter.com/Cryptadamist/status/1631173802749992961}
+Smart contracts written by ChatGPT    \REFERENCE{https://twitter.com/molly0xFFF/status/1607771123974049792}
+Black Hole Capital Group    \REFERENCE{https://twitter.com/Cryptadamist/status/1631173802749992961}
 Terra
 Stable Coins
 Solana
@@ -175,6 +177,4 @@ McAfee
 An Anti-crypto Army
 Veganism
 Legalizing Marijuana
-Sam Bankman-Fried 
-FTX
 Vampire attack
