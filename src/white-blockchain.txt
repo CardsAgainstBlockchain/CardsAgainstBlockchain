@@ -139,6 +139,8 @@ BLS soft key derivation
 An on-chain Fiat-Shamir transform
 Proving back-and-forth forever
 Identical nonces
+Crypto Wars NHK
+Anti-social key recovery
 Magical thinking
 Magical realism
 Bernie Madoff
