@@ -19,10 +19,10 @@ def clean_content(line):
 
 	# Remove \OPTIONAL{..} patterns
     line = re.sub(r'\\OPTIONAL\{.*\}', '', line)
-    
+
     # Escape special LaTeX characters
     # line = escape_latex(line)
-    
+
     # Trim any resulting double spaces
     line = re.sub(r'\s+', ' ', line)
     return line.strip()
