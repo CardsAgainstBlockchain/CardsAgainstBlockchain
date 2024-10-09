@@ -33,16 +33,16 @@ Building
 
 Install the required dependencies:
 
-    `pacman -S texlive-core texlive-latexextra texlive-fontsextra texlive-pictures`
-    `pacman -S ttf-dejavu ttf-liberation`
+    pacman -S texlive-core texlive-latexextra texlive-fontsextra texlive-pictures
+    pacman -S ttf-dejavu ttf-liberation
 
 The top-level Makefile can be used to recompile printable PDF and PNG versions of the cards:
 
-    `make PDFs PNGs`
+    make PDFs PNGs
 
 You can build specific releases of the cards using environment variables, e.g.
 
-    `make PDFs PNGs WHITE=white-ec19-expansion BLACK=black-ec19-expansion`
+    make PDFs PNGs WHITE=white-ec19-expansion BLACK=black-ec19-expansion
 
 Printed copies
 --------------
