@@ -6,7 +6,7 @@ Cards Against Blockchain is a fork of [Cards Against Cryptography](https://githu
 Basic Rules
 -----------
 
-See [RULES.md](https://github.com/CardsAgainstCryptography/CAC/blob/master/RULES.md) for the rules.
+See [RULES.md](https://github.com/CardsAgainstBlockchain/CardsAgainstBlockchain/blob/master/RULES.md) for the rules.
 
 License
 -------
@@ -31,15 +31,18 @@ You might gleen ideas from news archives like web3isgoinggreat.com or rekt.news 
 Building
 --------
 
+Install the required dependencies:
+
+    `pacman -S texlive-core texlive-latexextra texlive-fontsextra texlive-pictures`
+    `pacman -S ttf-dejavu ttf-liberation`
+
 The top-level Makefile can be used to recompile printable PDF and PNG versions of the cards:
 
-    make PDFs PNGs
-
-This should work on reasonable Linux or macOS systems.  You need to have xelatex, python3, and ImageMagick's convert command in your path.  One of the cards uses the Comic Sans font, so you need to have that on your system as well, possibly by installing the TeXLive packaging `comicsans` or installing it in your operating system's fonts folder.
+    `make PDFs PNGs`
 
 You can build specific releases of the cards using environment variables, e.g.
 
-    make PDFs PNGs WHITE=white-ec19-expansion BLACK=black-ec19-expansion
+    `make PDFs PNGs WHITE=white-ec19-expansion BLACK=black-ec19-expansion`
 
 Printed copies
 --------------
@@ -48,9 +51,4 @@ Since Cards Against Humanity was released under a BY-NC-SA 2.0 license, the "non
 
 1. **Print at home.**  Under the `PDFs-to-print` folder, there are printable PDFs of all the cards, formatted for 2-sided printing on either A4 or letter paper.  You'll use up all the toner if print pages and pages of all-black backgrounds, so you should probably use the gray background.  
 2. **Print at a local printshop.** You could also take the PDFs to your local print shop and have them print it on cardstock (80-pound or higher).  Use a paper cutter to cut out the cards.
-3. **Print via a commercial custom card manufacturer.**  We printed our version of Cards Against Cryptography using MakePlayingCards.com.  The folder `PNGs-to-print` contains the PNG images required to print a deck of cards at MakePlayingCards.com's [US Game Deck Size](https://www.makeplayingcards.com/design/custom-us-game-deck-size-cards.html), along with a [bi-fold (4 side) instruction booklet](https://www.makeplayingcards.com/pops/booklet-guide.html).  At the time we wrote this, 1 set of cards, along with a booklet and plain white box, is $34.35 (US dollars), plus shipping (approximately $10 for standard shipping to most countries).  Uploading the images and configure the project takes about 10 minutes.
-
-History
--------
-
-The first edition of Cards Against Cryptography was released at the rump session of Asiacrypt 2018.  There was an expansion pack at the rump session of Eurocrypt 2019, and a special "work"-from-home virtual expansion pack at the virtual rump session of virtual Eurocrypt 2020.
+3. **Print via a commercial custom card manufacturer.**  We printed our version of Cards Against Blockchain using MakePlayingCards.com.  The folder `PNGs-to-print` contains the PNG images required to print a deck of cards at MakePlayingCards.com's [US Game Deck Size](https://www.makeplayingcards.com/design/custom-us-game-deck-size-cards.html), along with a [bi-fold (4 side) instruction booklet](https://www.makeplayingcards.com/pops/booklet-guide.html).  At the time we wrote this, 1 set of cards, along with a booklet and plain white box, is $34.35 (US dollars), plus shipping (approximately $10 for standard shipping to most countries).  Uploading the images and configure the project takes about 10 minutes.
