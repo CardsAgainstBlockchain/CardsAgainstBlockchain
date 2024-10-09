@@ -5,11 +5,9 @@
 
 % fonts
 \usepackage{fontspec}
-% Linux seemingly lacks Helvetica or other Comic Sans,
-% I'll leave this for osmeone else to fix.
-% https://github.com/CardsAgainstCryptography/CAC/issues/5
-\newfontfamily\comicsans{Comic Sans MS}
-\setsansfont{Helvetica}
+% Using Linux-compatible fonts
+\newfontfamily\comicsans{DejaVu Sans} % Alternative to Comic Sans
+\setsansfont{Liberation Sans} % Alternative to Helvetica
 
 % font settings for default text
 \newcommand{\bodyfont}{\sffamily\bfseries\fontsize{12}{12}\selectfont}
@@ -21,8 +19,9 @@
 \tolerance=2000 
 \emergencystretch=10pt
 
-% REFERENCE
-\def\REFERENCE#1{}
+% Define REFERENCE and OPTIONAL commands to handle citations
+\newcommand{\REFERENCE}[1]{} % Empty command that takes one argument
+\newcommand{\OPTIONAL}[1]{} % Empty command that takes one argument
 
 % BLANK
 \newcommand{\BLANK}{{\tikz \draw [line width=1.5pt,color=cardfg] (0,0)--+(0.5in,0);}\xspace}
