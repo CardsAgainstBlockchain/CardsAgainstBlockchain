@@ -107,7 +107,7 @@ heterogeneous sharts
 FUD
 North Korea
 Vitalik's mom
-Vitalik's boner    \REFERENCE{https://medium.com/@vitaliksboner/how-big-can-vitaliks-boner-really-get-%E1%91%8E-def7c5d0a348}
+Vitalik's boner    \REFERENCE{https://medium.com/@vitaliksboner/how-big-can-vitaliks-boner-really-get-\%E1\%91\%8E-def7c5d0a348}
 Milady    \REFERENCE{https://www.coindesk.com/layer2/2022/05/05/everything-you-always-wanted-to-know-about-miladys-but-were-afraid-to-ask/}
 complaining on crypto twitter
 Crypto-fediverse
@@ -134,7 +134,7 @@ Jim Cramer
 GameStop
 A black cygnet
 A gaggle of black swans
-Dual_EC_DRBG
+\texttt{\detokenize{Dual_EC_DRBG}}
 BLS soft key derivation
 An on-chain Fiat-Shamir transform
 Proving back-and-forth forever
@@ -169,7 +169,7 @@ Taking Over Twitter
 Unsafe CEX
 Fighting the Bear Market
 Binance Stablecoin
-Bitcoin at $60k
+\texttt{\detokenize{Bitcoin at $60k}}
 The Bored Ape Yatch Club
 All Web3 degens
 Coming out

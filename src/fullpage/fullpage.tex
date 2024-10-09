@@ -34,8 +34,9 @@
 \usepackage{amsfonts,amsmath}
 
 \usepackage{fontspec}
-\newfontfamily\comicsans{Comic Sans MS}
-\setsansfont{Helvetica}
+% Using Linux-compatible fonts
+\newfontfamily\comicsans{DejaVu Sans}  % Alternative to Comic Sans MS
+\setsansfont{Liberation Sans}          % Alternative to Helvetica
 
 \renewcommand{\baselinestretch}{0.85}
 
@@ -119,7 +120,7 @@
 	\foreach \row in {0,...,2} {
 		\node [below right] at (\LEFTMARGIN + 0.12in + \col * \CARDWIDTH, \TOPMARGIN + 0.12in + \row * \CARDHEIGHT) {\fontsize{20}{20}\selectfont Cards};
 		\node [below right] at (\LEFTMARGIN + 0.12in + \col * \CARDWIDTH, \TOPMARGIN + 0.42in + \row * \CARDHEIGHT) {\fontsize{20}{20}\selectfont  Against};
-		\node [below right] at (\LEFTMARGIN + 0.12in + \col * \CARDWIDTH, \TOPMARGIN + 0.72in + \row * \CARDHEIGHT) {\fontsize{20}{20}\selectfont  Cryptography};
+		\node [below right] at (\LEFTMARGIN + 0.12in + \col * \CARDWIDTH, \TOPMARGIN + 0.72in + \row * \CARDHEIGHT) {\fontsize{20}{20}\selectfont  Blockchain};
 	};
 };
 \end{tikzpicture}
