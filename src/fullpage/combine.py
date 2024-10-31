@@ -10,7 +10,7 @@ sources = [black_txt, white_txt]
 destinations = ["black.data", "white.data"]
 
 preamble = "\\noindent \\begin{tikzpicture}[remember picture, overlay] \\node [shift={(0.1in,0in)}]  at (current page.south west) { \\begin{tikzpicture}[remember picture, overlay,yscale=-1,line width=1pt] "
-pattern = "\\node [below right,text width=1.86in] at (\LEFTMARGIN + %d * \CARDWIDTH, \TOPMARGIN + %d * \CARDHEIGHT) { \\fontsize{12}{0}\\selectfont %s };"
+pattern = "\\node [below right,text width=1.86in] at (\\LEFTMARGIN + %d * \\CARDWIDTH, \\TOPMARGIN + %d * \\CARDHEIGHT) { \\fontsize{12}{0}\\selectfont{\\color{foreground} %s }};"
 postamble = "\\end{tikzpicture} }; \\end{tikzpicture} \\newpage \\backgroundreverse"
 
 def clean_content(line):

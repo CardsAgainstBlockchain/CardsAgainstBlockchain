@@ -10,3 +10,5 @@ clean:
 	cd src/booklet && make clean
 	cd src/fullpage && make clean
 	cd src/individual-cards && make clean
+	cd PDFs-to-print && rm -f *.pdf
+	cd PNGs-to-print && rm -f *.png

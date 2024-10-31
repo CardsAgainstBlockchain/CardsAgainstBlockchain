@@ -2,5 +2,6 @@
 *.data
 *.log
 *.out
-
+PDFs-to-print/*
+PNGs-to-print/*
 .DS_Store

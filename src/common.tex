@@ -24,7 +24,7 @@
 \newcommand{\OPTIONAL}[1]{} % Empty command that takes one argument
 
 % BLANK
-\newcommand{\BLANK}{{\tikz \draw [line width=1.5pt,color=cardfg] (0,0)--+(0.5in,0);}\xspace}
+\newcommand{\BLANK}{{\color{cardfg}\tikz[baseline] \draw [line width=1.5pt] (0,0)--+(0.5in,0);\nobreak\color{cardfg}}}
 
 \ifwhitecard
 	\definecolor{cardbg}{named}{white}
